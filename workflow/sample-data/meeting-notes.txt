@@ -1,0 +1,11 @@
+Meeting: Website Project Discussion
+
+Today we discussed the progress of the website project.
+
+Rahul will complete the login page by Friday.
+
+Priya will test the website after the login page is completed.
+
+The team decided that the homepage design should remain unchanged.
+
+The next meeting will be on Monday.
